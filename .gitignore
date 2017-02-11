@@ -1,0 +1,17 @@
+# Wordpress Specific
+site/default/drupal-config/setting.local.php
+cache/
+
+# Numerous always-ignore extensions
+*.sass-cache
+
+# OS or Editor folders
+
+# Dreamweaver added files
+
+# Komodo
+
+# Folders to ignore
+node_modules
+bower_components
+.htaccess
