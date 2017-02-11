@@ -1,5 +1,5 @@
 # Wordpress Specific
-site/default/drupal-config/setting.local.php
+sites/default/drupal-config/setting.local.php
 cache/
 
 # Numerous always-ignore extensions
