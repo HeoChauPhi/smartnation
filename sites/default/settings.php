@@ -755,6 +755,11 @@ $settings['file_scan_ignore_directories'] = [
 # }
 
 switch ($_SERVER['HTTP_HOST']) {
+  case 'dev-smartnation.pantheonsite.io':
+    $config_file = 'drupal-config/setting.smartnation.php';
+    //define('WP_CACHE', true); //Added by WP-Cache Manager
+    break;
+
   case 'smartnation.com':
     $config_file = 'drupal-config/setting.smartnation.php';
     //define('WP_CACHE', true); //Added by WP-Cache Manager
