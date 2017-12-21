@@ -1,0 +1,23 @@
+homelayout:
+  label: Home Layout
+  category: Theme Layouts
+  path: templates/homelayout
+  icon: homelayout.png
+  template: homelayout
+  regions:
+    contenttop:
+      label: Content Top
+    contentright:
+      label: Content Right
+    contentleft:
+      label: Content Left
+    contentmiddle:
+      label: Content Middle
+    colfirst:
+      label: Column First
+    colseccond:
+      label: Column Seccond
+    colthird:
+      label: Column Third
+    contentbottom:
+      label: Content Bottom

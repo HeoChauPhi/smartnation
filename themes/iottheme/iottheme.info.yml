@@ -7,6 +7,7 @@ description: 'Uses the Bootstrap framework Sass source files and must be compile
 package: 'Bootstrap'
 
 regions:
+  header_top: 'Header Top'
   navigation: 'Navigation'
   navigation_collapsible: 'Navigation (Collapsible)'
   header: 'Top Bar'
@@ -15,6 +16,9 @@ regions:
   content: 'Content'
   sidebar_first: 'Primary'
   sidebar_second: 'Secondary'
+  footer_panel_first: 'Footer Panel First'
+  footer_panel_seccond: 'Footer Panel Seccond'
+  footer_panel_third: 'Footer Panel Third'
   footer: 'Footer'
   page_top: 'Page top'
   page_bottom: 'Page bottom'

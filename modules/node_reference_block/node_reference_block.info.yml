@@ -1,0 +1,7 @@
+name: 'Node Reference Block'
+type: module
+description: 'Add a block with a node reference and view setting'
+core: 8.x
+package: Block
+dependencies:
+  - block

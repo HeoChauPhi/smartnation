@@ -1,0 +1,10 @@
+block.settings.node_reference:
+  type: block_settings
+  label: 'Node Reference'
+  mapping:
+    block_node_id:
+      type: text
+      label: 'Node ID'
+    block_node_view_mode:
+      type: select
+      label: 'View Mode'
